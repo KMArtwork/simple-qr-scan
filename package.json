@@ -2,6 +2,7 @@
   "name": "simple-scan-qr",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kmartwork.github.io/simple-qr-scan/",
   "dependencies": {
     "@chakra-ui/react": "^2.8.0",
     "@emotion/react": "^11.11.1",
