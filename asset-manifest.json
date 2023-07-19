@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-qr-scan/static/css/main.dbdd2289.css",
+    "main.js": "/simple-qr-scan/static/js/main.a771354d.js",
+    "index.html": "/simple-qr-scan/index.html",
+    "main.dbdd2289.css.map": "/simple-qr-scan/static/css/main.dbdd2289.css.map",
+    "main.a771354d.js.map": "/simple-qr-scan/static/js/main.a771354d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbdd2289.css",
+    "static/js/main.a771354d.js"
+  ]
+}
