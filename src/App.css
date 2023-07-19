@@ -1,38 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root{
+  background-color: hsl(212, 45%, 89%);
+  box-sizing: border-box;
+}
+
 .App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#qr-card{
+  height: 32rem;
+  border-radius: 1rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#qr-card-body{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #61dafb;
+#qr-card-text {
+  height: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#qr-image{
+  border-radius: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.chakra-text{
+  padding: 0 1.25rem;
+}
+
+#bold{
+  font-weight: 700;
+  line-height: 1.85rem;
+}
+
+#text{
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  line-height: 1.25rem;
 }
