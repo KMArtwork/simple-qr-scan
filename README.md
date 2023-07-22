@@ -1,4 +1,5 @@
 # Overview
+This is a simple QR Scan project that I put together as a way to practice my front end dev skills.
 
 ## Screenshots
 
