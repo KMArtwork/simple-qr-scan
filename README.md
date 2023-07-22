@@ -6,8 +6,8 @@
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/simple-qr-scan-component-made-with-react-and-chakraui--cisbvP1Jc]
-- Live Site URL: [https://kmartwork.github.io/simple-qr-scan/]
+- [Solution (Frontend Mentor)](https://www.frontendmentor.io/solutions/simple-qr-scan-component-made-with-react-and-chakraui--cisbvP1Jc)
+- [Live Site URL](https://kmartwork.github.io/simple-qr-scan/)
 
 # My Process
 
