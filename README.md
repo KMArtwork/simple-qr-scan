@@ -23,7 +23,7 @@ I slowly started piecing everything together and kept going back to reference th
 
 ## Useful Resources
 
-- Getting Started with Chakra-UI: [https://chakra-ui.com/getting-started]
+- [Getting Started with Chakra-UI](https://chakra-ui.com/getting-started)
 
 # Author
 Kawika Miller
